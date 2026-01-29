@@ -84,8 +84,8 @@ export const TIMELINE: TimelineEvent[] = [
     id: 'exp1',
     type: 'Experience',
     title: 'Software Engineer Intern',
-    organization: 'TechFlow Systems',
-    period: 'Jun 2023 - Present',
+    organization: 'Technosprint Info Solution',
+    period: 'Sept 2025 - Present',
     description: [
       'Collaborating on a scalable SaaS platform using React and Node.js.',
       'Optimizing API endpoints resulting in a 15% reduction in latency.',
@@ -95,12 +95,12 @@ export const TIMELINE: TimelineEvent[] = [
   {
     id: 'edu1',
     type: 'Education',
-    title: 'B.S. in Computer Science',
+    title: 'B.Tech Computer and Communication Engineering',
     organization: 'University of Technology',
-    period: '2021 - 2025 (Expected)',
+    period: '2025 - 2029 (Expected)',
     description: [
       'Focusing on Algorithms, Machine Learning, and Cloud Computing.',
-      'Maintaining a 3.9 GPA.',
+      'Maintaining a 8.9 GPA.',
       'Active member of the ACM Student Chapter.'
     ]
   }
