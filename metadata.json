@@ -1,0 +1,8 @@
+{
+  "name": "Sanjay Portfolio - High-End Professional",
+  "description": "A premium, recruiter-ready personal portfolio for Sanjay, featuring modern design, interactive projects, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
